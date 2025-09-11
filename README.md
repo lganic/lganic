@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @lganic
-Im just a crazy guy with the unbridled power of a python compiler.
-Currently studying Computer Engineering at the Florida Insitute of Technology
-Best way to reach me is my discord lganic#4183
+I'm a PhD student studying at the Florida Institute of Technology in Melbourne, Florida.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lganic)](https://github.com/anuraghazra/github-readme-stats)
+Best way to reach me is my Discord: lganic. 
+
+I have a number of active projects on here, and collaboration on any of them is always welcome. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lganic)](https://github.com/anuraghazra/github-readme-stats&theme=onedark)
