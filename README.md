@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lganic
+👋 Hi, I’m @lganic
 I'm a PhD student studying at the Florida Institute of Technology in Melbourne, Florida.
 
 Best way to reach me is my Discord: lganic. 
